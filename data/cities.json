@@ -1,0 +1,136 @@
+{
+  "cities": [
+    {
+      "cityName": "Lisbon",
+      "country": "Portugal",
+      "emoji": "🇵🇹",
+      "date": "2027-10-31T15:59:59.138Z",
+      "notes": "My favorite city so far!",
+      "position": {
+        "lat": 38.727881642324164,
+        "lng": -9.140900099907554
+      },
+      "id": "73930385"
+    },
+    {
+      "cityName": "Madrid",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2027-07-15T08:22:53.976Z",
+      "notes": "",
+      "position": {
+        "lat": 40.46635901755316,
+        "lng": -3.7133789062500004
+      },
+      "id": "17806751"
+    },
+    {
+      "cityName": "Berlin",
+      "country": "Germany",
+      "emoji": "🇩🇪",
+      "date": "2027-02-12T09:24:11.863Z",
+      "notes": "Amazing 😃",
+      "position": {
+        "lat": 52.53586782505711,
+        "lng": 13.376933665713324
+      },
+      "id": "98443197"
+    },
+    {
+      "id": "5c81",
+      "cityName": "Toulouse",
+      "country": "France",
+      "emoji": "🇫🇷",
+      "date": "2025-09-14T15:09:40.143Z",
+      "notes": "",
+      "position": {
+        "lat": "43.56447158721811",
+        "lng": "1.5161132812500002"
+      }
+    },
+    {
+      "id": "3b5c",
+      "cityName": "Godojos",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2025-09-14T15:12:33.388Z",
+      "notes": "asdfasdfas",
+      "position": {
+        "lat": "41.766480748972256",
+        "lng": "-2.591396718749999"
+      }
+    },
+    {
+      "id": "9a59",
+      "cityName": "Godojos",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2025-09-14T15:12:33.388Z",
+      "notes": "asdfasdfas",
+      "position": {
+        "lat": "41.766480748972256",
+        "lng": "-2.591396718749999"
+      }
+    },
+    {
+      "id": "7d42",
+      "cityName": "Godojos",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2025-09-14T15:12:33.388Z",
+      "notes": "asdfasdfas",
+      "position": {
+        "lat": "41.766480748972256",
+        "lng": "-2.591396718749999"
+      }
+    },
+    {
+      "id": "ba47",
+      "cityName": "Saint-Paul",
+      "country": "France",
+      "emoji": "🇫🇷",
+      "date": "2025-09-14T15:12:50.633Z",
+      "notes": "sadf",
+      "position": {
+        "lat": "45.75985868785576",
+        "lng": "1.4282226562500002"
+      }
+    },
+    {
+      "id": "3db3",
+      "cityName": "La Ferte-Imbault",
+      "country": "France",
+      "emoji": "🇫🇷",
+      "date": "2025-09-14T15:18:52.182Z",
+      "notes": "asdfasd",
+      "position": {
+        "lat": "47.45780853075031",
+        "lng": "1.9445800781250002"
+      }
+    },
+    {
+      "id": "29eb",
+      "cityName": "Charleroi",
+      "country": "Belgium",
+      "emoji": "🇧🇪",
+      "date": "2025-09-14T15:19:03.373Z",
+      "notes": "as",
+      "position": {
+        "lat": "50.45750402042058",
+        "lng": "4.405517578125001"
+      }
+    },
+    {
+      "id": "0ddc",
+      "cityName": "Tabuaco",
+      "country": "Portugal",
+      "emoji": "🇵🇹",
+      "date": "2025-09-14T15:19:35.359Z",
+      "notes": "",
+      "position": {
+        "lat": "41.104190944576466",
+        "lng": "-7.536621093750001"
+      }
+    }
+  ]
+}
